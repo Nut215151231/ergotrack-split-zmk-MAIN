@@ -4,7 +4,6 @@
  */
 
 #include "ergo_track_split.dtsi"
-#include "ergo_track_split_trackball.dtsi"
 
 / {
     kscan0: kscan {
