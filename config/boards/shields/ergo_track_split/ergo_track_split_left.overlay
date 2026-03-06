@@ -4,6 +4,7 @@
  */
 
 #include "ergo_track_split.dtsi"
+#include "ergo_track_split_trackball.dtsi"
 
 / {
     kscan0: kscan {
@@ -40,5 +41,3 @@
 
 &left_encoder_1 { status = "okay"; };
 &left_encoder_2 { status = "okay"; };
-
-&spi0 { status = "disabled"; };
